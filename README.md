@@ -1,4 +1,4 @@
-##MNIST Convolutional Neural Network (CNN) Model
+#MNIST Convolutional Neural Network (CNN) Model
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify handwritten digits from the MNIST dataset. The model is built, compiled, trained, and evaluated using the provided dataset.
 
